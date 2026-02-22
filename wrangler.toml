@@ -1,0 +1,11 @@
+name = "static-site-manager"
+main = "src/index.js"
+compatibility_date = "2026-02-22"
+
+[[kv_namespaces]]
+binding = "SITE_KV"
+id = "REPLACE_WITH_KV_ID"
+preview_id = "REPLACE_WITH_KV_PREVIEW_ID"
+
+[vars]
+MAX_UPLOAD_BYTES = "10485760"
