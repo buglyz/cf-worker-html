@@ -156,9 +156,7 @@ Secrets：
 npx wrangler kv:key delete "site:your-slug:manifest" --binding SITE_KV
 ```
 
-## 许可
 
-可自由修改与商用。
-#   c f - w o r k e r - h t m l 
+# cf-worker-html 
  
  
